@@ -1,4 +1,13 @@
+body{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+}
 .project{
     background-color: aqua;
     padding: 10px;
+    width: 30%;
+}
+img{
+    padding-right: 50px;
 }
